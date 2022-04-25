@@ -137,6 +137,23 @@ When complete, submit the file on BCS.
 5. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies. 
 
 
+![etc/passwd] (/Images/week 15-1.png)
+
+
+![etc/hosts] (/Images/week 15-2.png)
+
+### ***Recommended Mitigation Strategies***  
+-------------------------------------------
+
+•	Server-side validation that does not allow selection of unintended files.
+
+•	Segregation of confidential files from the web server and accessible directories.
+
+•	Permissions to restrict web server account accessibility.
+
+-------------------------------------------
+
+
 ### Web Application 2: *A Brute Force to Be Reckoned With*
 
 1. Complete the following steps to set up the activity. 
@@ -187,6 +204,19 @@ When complete, submit the file on BCS.
    - Hint: Refer back to the Burp Intruder activity `10_Brute_Force` from Day 3 for guidance.
  
 4. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies. 
+
+![Burp Suite](Images/week 15-3.png)
+
+### ***Recommended Mitigation Strategies***  
+-------------------------------------------
+
+•	Mitigations can include requiring complex usernames and passwords
+
+•	Enabling MFA (multi-factored authentication)
+
+•	Enabling a lockout after a certain amount of failed login attempts.
+
+-------------------------------------------
 
 ### Web Application 3: *Where's the BeEF?*
 
@@ -303,7 +333,27 @@ When complete, submit the file on BCS.
      
      - Host >> Get Geolocation (Third Party)
     
-6. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies. 
+6. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies.
+
+- Social Engineering >> Pretty Theft
+
+![Social Engineering](Images/week 15-5.png)
+
+- Social Engineering >> Fake Notification Bar
+
+![Social Engineering](Images/week 15-6.png)
+
+- Social Engineering >> Flash Update
+
+![Social Engineering](Images/week 15-4.png)
+
+### ***Recommended Mitigation Strategies***  
+-------------------------------------------
+•	A common method of mitigating cross-site scripting is by implementing "Input Validation"
+
+•	With input validation, a regular user wont be able to exploit the site since the server will evaluate the request and respond with only allowed information instead of displaying confidential info.
+
+---
 
 ---
 
