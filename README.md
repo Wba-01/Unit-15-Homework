@@ -137,10 +137,10 @@ When complete, submit the file on BCS.
 5. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies. 
 
 
-![etc/passwd] (/Images/week 15-1.png)
+![etc/passwd](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-1.png)
 
 
-![etc/hosts] (/Images/week 15-2.png)
+![etc/hosts](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-2.png)
 
 ### ***Recommended Mitigation Strategies***  
 -------------------------------------------
@@ -205,7 +205,7 @@ When complete, submit the file on BCS.
  
 4. **Deliverable**: Take a screen shot confirming that this exploit was successfully executed and provide 2-3 sentences outlining mitigation strategies. 
 
-![Burp Suite](Images/week 15-3.png)
+![Burp Suite](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-3.png)
 
 ### ***Recommended Mitigation Strategies***  
 -------------------------------------------
@@ -337,15 +337,16 @@ When complete, submit the file on BCS.
 
 - Social Engineering >> Pretty Theft
 
-![Social Engineering](Images/week 15-5.png)
+![Social Engineering](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-5.png)
 
 - Social Engineering >> Fake Notification Bar
 
-![Social Engineering](Images/week 15-6.png)
+![Social Engineering](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-6.png)
 
 - Social Engineering >> Flash Update
 
-![Social Engineering](Images/week 15-4.png)
+![Social Engineering](https://github.com/Wba-01/Unit-15-Homework/blob/49d82b91fcbd3599f9131aef392f59040417a2a3/Images/week%2015-4.png)
+
 
 ### ***Recommended Mitigation Strategies***  
 -------------------------------------------
